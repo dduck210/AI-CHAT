@@ -152,43 +152,8 @@
       "password": "123456"
     },
     {
-      "id": "2",
-      "username": "ducda",
-      "password": "1"
-    },
-    {
-      "id": "cd8e",
+      "id": "1419",
       "username": "admin1",
-      "password": "123456"
-    },
-    {
-      "id": "3",
-      "username": "user1",
-      "password": "123"
-    },
-    {
-      "id": "4",
-      "username": "user2",
-      "password": "123"
-    },
-    {
-      "id": "5",
-      "username": "user3",
-      "password": "123"
-    },
-    {
-      "id": "6",
-      "username": "user4",
-      "password": "123"
-    },
-    {
-      "id": "f471",
-      "username": "duonganhduc",
-      "password": "123"
-    },
-    {
-      "id": "8fb1",
-      "username": "admin2",
       "password": "123456"
     }
   ]
