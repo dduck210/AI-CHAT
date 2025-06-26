@@ -2,33 +2,20 @@
   "todos": [
     {
       "id": "1",
-<<<<<<< HEAD
       "todo": "Học ReactJS ",
-=======
-      "todo": "Học React 1",
->>>>>>> 43412db93fe9d94b28b35c76aa372662a9b4db87
       "completed": false,
       "userId": 1
     },
     {
       "id": "2",
-<<<<<<< HEAD
       "todo": "Viết ứng dụng CRUD 1",
       "completed": true,
-=======
-      "todo": "Viết ứng dụng CRUD",
-      "completed": false,
->>>>>>> 43412db93fe9d94b28b35c76aa372662a9b4db87
       "userId": 1
     },
     {
       "id": "3",
       "todo": "Đọc tài liệu Redux",
-<<<<<<< HEAD
       "completed": false,
-=======
-      "completed": true,
->>>>>>> 43412db93fe9d94b28b35c76aa372662a9b4db87
       "userId": 2
     },
     {
@@ -106,11 +93,7 @@
     {
       "id": "16",
       "todo": "Review code cho teammate",
-<<<<<<< HEAD
       "completed": true,
-=======
-      "completed": false,
->>>>>>> 43412db93fe9d94b28b35c76aa372662a9b4db87
       "userId": 3
     },
     {
@@ -146,7 +129,6 @@
     {
       "id": "22",
       "todo": "Nâng cấp hiệu suất web",
-<<<<<<< HEAD
       "completed": false,
       "userId": 1
     },
@@ -154,15 +136,12 @@
       "id": "03ac",
       "todo": "Học code Python 1",
       "completed": true,
-=======
-      "completed": true,
       "userId": 1
     },
     {
       "id": "0d9f",
       "todo": "react",
       "completed": false,
->>>>>>> 43412db93fe9d94b28b35c76aa372662a9b4db87
       "userId": 1
     }
   ],
@@ -170,7 +149,6 @@
     {
       "id": "1",
       "username": "admin",
-<<<<<<< HEAD
       "password": "123456"
     },
     {
@@ -182,29 +160,24 @@
       "id": "cd8e",
       "username": "admin1",
       "password": "123456"
-    }
-  ]
-}
-=======
-      "password": "123"
     },
     {
-      "id": "2",
+      "id": "3",
       "username": "user1",
       "password": "123"
     },
     {
-      "id": "3",
+      "id": "4",
       "username": "user2",
       "password": "123"
     },
     {
-      "id": "4",
+      "id": "5",
       "username": "user3",
       "password": "123"
     },
     {
-      "id": "5",
+      "id": "6",
       "username": "user4",
       "password": "123"
     },
@@ -212,7 +185,11 @@
       "id": "f471",
       "username": "duonganhduc",
       "password": "123"
+    },
+    {
+      "id": "8fb1",
+      "username": "admin2",
+      "password": "123456"
     }
   ]
 }
->>>>>>> 43412db93fe9d94b28b35c76aa372662a9b4db87
