@@ -10,7 +10,6 @@ const Header = () => {
   );
 
   useEffect(() => {
-    // Cập nhật username khi login/register
     const handleStorage = () =>
       setUsername(localStorage.getItem("username") || "");
     window.addEventListener("storage", handleStorage);
@@ -18,7 +17,6 @@ const Header = () => {
   }, []);
 
   useEffect(() => {
-    // Khi chuyển trang, cập nhật lại username (trường hợp login/register cùng tab)
     setUsername(localStorage.getItem("username") || "");
   }, [isAuth]);
 
