@@ -10,7 +10,11 @@ import {
 } from "@mui/material";
 import DeleteIcon from "@mui/icons-material/Delete";
 import EditIcon from "@mui/icons-material/Edit";
+<<<<<<< HEAD
 // import DashboardLayoutBasic from "./components/Dashboard";
+=======
+import DashboardLayoutBasic from "./components/Dashboard";
+>>>>>>> 43412db93fe9d94b28b35c76aa372662a9b4db87
 
 function App() {
   const [todos, setTodos] = useState([]);

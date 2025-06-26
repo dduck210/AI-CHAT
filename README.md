@@ -69,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # duc-todolist
+<<<<<<< HEAD
+=======
+# testtodolist
+# testtodolist
+# testtodolist
+>>>>>>> 43412db93fe9d94b28b35c76aa372662a9b4db87
