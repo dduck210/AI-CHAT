@@ -1,43 +1,72 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="vi">
   <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
-
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>React App</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Giới thiệu bản thân - Nguyễn Ngọc Đạt</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
+    <header>
+      <h1>Đỗ Văn Đạt</h1>
+      <p>Web Developer</p>
+    </header>
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
+    <nav>
+      <a href="#about">Giới thiệu</a>
+      <a href="#education">Học vấn</a>
+      <a href="#skills">Kỹ năng</a>
+      <a href="#experience">Kinh nghiệm</a>
+      <a href="#contact">Liên hệ</a>
+    </nav>
 
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
+    <main>
+      <section id="about">
+        <h2>Giới thiệu</h2>
+        <p>
+          Xin chào! Mình là Đạt, một lập trình viên đam mê phát triển web, đặc
+          biệt là các ứng dụng ReactJS hiện đại.
+        </p>
+      </section>
+
+      <section id="education">
+        <h2>Học vấn</h2>
+        <ul>
+          <li>Học viện Nông Nghiệp Việt Nam (1956 - 2025)</li>
+          <li>Chuyên ngành: Thương mại điện tử</li>
+        </ul>
+      </section>
+
+      <section id="skills">
+        <h2>Kỹ năng</h2>
+        <ul>
+          <li>HTML, CSS</li>
+          <li>Tiếng Anh giao tiếp</li>
+        </ul>
+      </section>
+
+      <section id="experience">
+        <h2>Kinh nghiệm</h2>
+        <ul>
+          <li>Thực tập Frontend tại Công ty ABC (2025)</li>
+          <li>Tham gia phát triển dự án TodoList, Blog cá nhân, ...</li>
+        </ul>
+      </section>
+
+      <section id="contact">
+        <h2>Liên hệ</h2>
+        <ul>
+          <li>Email: dovandat@gmail.com</li>
+          <li>
+            Facebook:
+            <a href="https://www.facebook.com/ovanat.817868" target="_blank"
+              >Đỗ Văn Đạt</a
+            >
+          </li>
+        </ul>
+      </section>
+    </main>
+
+    <footer>&copy; 2025 Đỗ Văn Đạt. All rights reserved.</footer>
   </body>
 </html>
